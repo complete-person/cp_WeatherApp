@@ -100,7 +100,7 @@ const WeatherApp = () => {
                     <div className="weather_icon">
                         <img 
                             src={weatherState}
-                            alt="cloudy weather" 
+                            alt="If image is not opened please press Enter again" 
                             width={300}
                         />
                     </div>
